@@ -17,5 +17,4 @@ Links
    [Twitter]: <https://twitter.noodlespicante.ml>
    [Email]: <mailto:suporte@noodlespicante.tk>
    [MIT]: <https://github.com/noodlespicante/launching-page/blob/main/LICENSE.MD>
-
-Yupi
+   
