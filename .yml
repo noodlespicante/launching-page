@@ -1,2 +1,0 @@
-- name: GitHub Actions Discord Webhook
-  uses: nebularg/actions-discord-webhook@v1.0.0
