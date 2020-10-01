@@ -18,3 +18,4 @@ Links
    [Email]: <mailto:suporte@noodlespicante.tk>
    [MIT]: <https://github.com/noodlespicante/launching-page/blob/main/LICENSE.MD>
    
+lol
