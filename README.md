@@ -16,7 +16,7 @@ Links
    [YouTube]: <https://www.youtube.com/NoodlesPicante>
    [Twitter]: <https://twitter.com/NoodlesPicante>
    [Email]: <mailto:suporte@noodlespicante.site>
-   [MIT]: <https://github.com/noodlespicante/launching-page/blob/main/LICENSE.MD>
+   [MIT]: <https://github.com/noodlespicante/launching-page/blob/main/LICENSE.md>
 
 Status
 ----
